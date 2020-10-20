@@ -11,4 +11,4 @@ def fibonacci_iterative(num):
 
 print(fibonacci_iterative(2))
 print(fibonacci_iterative(3))
-print(fibonacci_iterative(10))
+print(fibonacci_iterative(100))
