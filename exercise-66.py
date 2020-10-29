@@ -64,3 +64,5 @@ data = np.array([
 
 im, cbar = heatmap(data, ["Class-1", "Class-2", "Class-3"], ["A", "B", "C"], cmap="YlGn", cbarlabel="Number of Students")
 texts = annotate_heatmap(im, valfmt="{x}")
+
+plt.show()
