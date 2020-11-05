@@ -6,10 +6,6 @@ class Polygon:
     def num_sides(self):
         return len(self.side_lengths)
 
-    @num_sides.setter
-    def num_sides(self, value):
-        self.num_sides = value
-
     @property
     def perimeter(self):
         return sum(self.side_lengths)
