@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: kchu-package
+Version: 1.0.0
+Summary: Packt Python Workshop example package
+Home-page: UNKNOWN
+Author: Kevin Clyde Chu
+Author-email: kchu.projects@gmail.com
+License: UNKNOWN
+Description: My package's longer description and will appear in the web.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
